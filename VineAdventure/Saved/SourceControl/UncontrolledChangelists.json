@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Level1.umap",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/Akai_MAT.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/Body_MAT.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/character_1_.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/character_1__PhysicsAsset.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/character_1__Skeleton.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/Erika_Archer_Clothes_diffuse.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/Erika_Archer_Clothes_normal.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/eyelash_MAT.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/EyeSpec_MAT.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/FemaleFitA_Body_diffuse.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/FemaleFitA_Body_diffuse_ncl1_1.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/FemaleFitA_eyelash_diffuse.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Character/FemaleFitA_StdNM.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Erika.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/ABP_Erika.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/ThirdPerson/Blueprints/BP_MyCharacter.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Running_mixamo_com.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Jumping_mixamo_com.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Walking_1__mixamo_com.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Idle.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/NewBlendSpace1D.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Jumping_Down.uasset",
+				"C:/Users/pierr/OneDrive/Game 310 Summer/pluto310/VineAdventure/Content/Developers/LeoKlemet/Animations/Jumping_Up.uasset"
+			]
+		}
+	]
+}
