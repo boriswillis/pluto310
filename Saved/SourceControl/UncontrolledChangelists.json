@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/GMU/Summer 2024/Game 310/Week 5/pluto310/Content/BP/Rope.uasset",
+				"C:/GMU/Summer 2024/Game 310/Week 5/pluto310/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/GMU/Summer 2024/Game 310/Week 5/pluto310/Content/__ExternalActors__/StartMenu/0/LF/05VD4W7ZP4V0Y37Z86NGFK.uasset",
+				"C:/GMU/Summer 2024/Game 310/Week 5/pluto310/Content/BP/BPI_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/SST/Content/SST/Blueprints/BP_MainCharacter.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Marketplace/SST/Content/SST/Animations/ABP_SST.uasset",
+				"C:/GMU/Summer 2024/Game 310/Week 5/pluto310/Content/BP/BPI_RopeHanging.uasset",
 				"D:/Aaron/Downloads/Git Repositories/DreadBlocks/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"D:/Aaron/Downloads/Git Repositories/DreadBlocks/Content/__ExternalActors__/StartMenu/B/00/KMQHQMVWLKCBCYVAALGGQP.uasset",
 				"D:/Aaron/Downloads/Git Repositories/DreadBlocks/Content/__ExternalActors__/StartMenu/A/5R/AOK73HHVVFUE7QT9RWIO7Z.uasset",
